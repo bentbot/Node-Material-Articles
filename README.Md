@@ -61,7 +61,12 @@ When running correctly, articles will become visible on an alternative web port 
 http://localhost:8080/
 ````
 ![img](http://i.imgur.com/4Fp9QOF.png)
+````
+http://localhost:8080/demo
+````
+![img](http://i.imgur.com/E5EwsJf.png)
 
+In the examples above, Node is generating the page in HTML and issuing changes to page elements based on the matching JSON file in `./content` folder.
 
 ### NGINX Webservice
 
