@@ -1,0 +1,6 @@
+{
+	"title": "Page Title",
+	"color": "orange",
+	"content": "<h1>A simple demo...</h1><i>Of <a href='http://nodejs.com'>NodeJS</a> and <a href='http://jade-lang.com'>Jade</a> template engine showing the <a href='https://www.google.com/design/spec/material-design/introduction.html#'>Material Design</a> collection.",
+	"footer": "Monday July 13, 2015"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "article",
+  "version": "1.0.0",
+  "description": "A simple article editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "article",
+    "editor",
+    "node",
+    "mdl",
+    "material",
+    "design"
+  ],
+  "author": "bentbot",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.1",
+    "jade": "^1.11.0",
+    "read-json": "^0.1.0",
+    "socket.io": "^1.3.5"
+  }
+}
